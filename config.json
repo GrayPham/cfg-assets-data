@@ -1,8 +1,8 @@
 {
-  "version": "0.1.3",
-  "notes": "STT + ten kenh, BiRefNet giu toc, luu anh goc",
-  "url": "data/dbf0978ec2b587a5d618.bin",
-  "sha256": "e5c738577730f2e4991cef30445bd58fff0391eeffa1651b597cd9b8cf467c72",
-  "size": 19054592,
-  "signature": "MEUCIQDkTvxoaiki0s3xVkDhV3dRoEni5LgaqO7SOCPxVH1mFAIgeZ6IMsgs1AzoFMrsb6qz2pjawXv1X3PLZjpvtktIbEs="
+  "version": "0.1.4",
+  "notes": "STT + tieu de video day du, nut Dung",
+  "url": "data/4533065aed7c960261a2.bin",
+  "sha256": "2619c0a8e0efec414efbd16928e0618ea637c2808cd0f2ea426c61295a18cb2d",
+  "size": 19045888,
+  "signature": "MEUCIDKjb1djLDI8fEqLHtxr7lZnrYn0VmSC16iDqwJ3xAbWAiEAsrKGpLubsFVERxmZzFB8s8Cx28UEZ3uV7LjXohxtrrE="
 }
