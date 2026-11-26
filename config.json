@@ -1,8 +1,8 @@
 {
-  "version": "0.1.1",
-  "notes": "Xoa chu + mau nen xanh/den/trang, chon anh kieu Explorer, chuot phai, quet het video, du lieu nam trong thu muc tool",
-  "url": "data/11ee23b8fc2fc619d6ea.bin",
-  "sha256": "c62bf5ce0ffc9288ab1556b3fc2eb7748bec4f001efe784e947c39b76ee479d9",
-  "size": 18995200,
-  "signature": "MEYCIQDu1zc5lvTj/a1SGXvv37RxznhELmVahb9NLQ8B83RaSwIhAIpQczwwKhiicMR/sMj1xe96nKeWClA0/lG/eh3lbALg"
+  "version": "0.1.3",
+  "notes": "STT + ten kenh, BiRefNet giu toc, luu anh goc",
+  "url": "data/dbf0978ec2b587a5d618.bin",
+  "sha256": "e5c738577730f2e4991cef30445bd58fff0391eeffa1651b597cd9b8cf467c72",
+  "size": 19054592,
+  "signature": "MEUCIQDkTvxoaiki0s3xVkDhV3dRoEni5LgaqO7SOCPxVH1mFAIgeZ6IMsgs1AzoFMrsb6qz2pjawXv1X3PLZjpvtktIbEs="
 }
